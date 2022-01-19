@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Spring-version 5-6DB33F?style=plastic&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&amp;logo=HTML5&amp;logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=plastic&amp;logo=Mysql&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Spring-version 5-6DB33F?style=plastic&logo=Spring&logoColor=6DB33F"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&amp;logo=HTML5&amp;logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=plastic&amp;logo=Mysql&amp;logoColor=white">
 
 <a href="https://aslan0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory-Blog-black?style=plastic&logo=Notion&logoColor=white"/>
