@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <a href="https://aslan0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory-Blog-black?style=plastic&logo=Notion&logoColor=white"/>
  
-<div align="center">
+<div align="left">
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoBaeBang&show_icons=true&theme=gruvbox_light)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoBaeBang&layout=compact&theme=gruvbox_light)
  </div>
