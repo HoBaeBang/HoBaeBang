@@ -1,8 +1,6 @@
 ### Hi there~!
 
-<div align="center"> 
 Here is HoBae's page
- </div>
 <!--
 **HoBaeBang/HoBaeBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
