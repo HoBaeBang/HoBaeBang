@@ -3,7 +3,7 @@
  Here is HoBae's page
  
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=header&text=%20Ho%15Bae%15&fontSize=50&textBg=true&animation=twinkling)
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=header&text=%20Ho%20Bae%20&fontSize=80&textBg=true&animation=twinkling)
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=header&text=%20Ho%20Bae%20&fontSize=50&textBg=true&animation=twinkling)
 <!--
 **HoBaeBang/HoBaeBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
