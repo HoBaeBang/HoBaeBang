@@ -2,7 +2,7 @@
 
  Here is HoBae's page
  
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=%20Hyun%20Joon%20&fontSize=80&textBg=true&animation=twinkling)
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=%20Ho%20Bae%20&fontSize=80&textBg=true&animation=twinkling)
 <!--
 **HoBaeBang/HoBaeBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
