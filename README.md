@@ -77,8 +77,8 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoBaeBang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=3498db&title_color=2ecc71" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoBaeBang&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2ecc71" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hobae&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=3498db&title_color=2ecc71" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobae&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2ecc71" height="180em" />
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
