@@ -1,6 +1,6 @@
 <!-- 타이틀 부분 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=200&section=header&text=Backend%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Specialized%20in%20Spring%20Boot%20%26%20Performance%20Optimization&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=200&section=header&text=Backend%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 💡 MySQL 40% 최적화 & 알고리즘 성능 80% 개선 경험  
 🏥 FHIR 의료 표준 구현 및 10만 건 데이터 마이그레이션 경험  
 👥 3명의 개발자를 관리하며 2개 프로젝트 리드 경험  
-🚀 3년간 백엔드 개발 전문  
+🚀 3년간 의료 도메인 백엔드 개발 전문  
 
 </div>
 
@@ -77,9 +77,8 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hobae&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=3498db&title_color=2ecc71" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobae&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2ecc71" height="180em" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobae)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=HoBaeBang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=3498db&title_color=2ecc71" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoBaeBang&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2ecc71" height="180em" />
 </div>
 
 <br>
@@ -91,7 +90,7 @@
 | 분야 | 성과 |
 |:---:|:---:|
 | ⚡ 성능 최적화 | MySQL 쿼리 최적화로 40% 성능 개선 |
-| 🚀 알고리즘 개선 | 핵심 알고리즘 성능 80% 향상 |
+| 🚀 알고리즘 개선 | 핵심 알고리즘 성능 80% 향상 (90s → 18s) |
 | 🏥 의료 시스템 | FHIR 표준 구현 및 10만 건 데이터 마이그레이션 |
 | 👥 팀 리더십 | 3명 개발자 관리, 2개 프로젝트 동시 리드 |
 
